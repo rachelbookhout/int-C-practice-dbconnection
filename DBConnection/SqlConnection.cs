@@ -4,7 +4,9 @@ namespace DBConnection
 {
 	public class SqlConnection : DbConnection
 	{
-		
+
+		public SqlConnection(string ConnectionString) : base(ConnectionString){}
+
 
 		public override void Open()
 		{

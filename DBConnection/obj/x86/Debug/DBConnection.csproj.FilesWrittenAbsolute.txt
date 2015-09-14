@@ -1,1 +1,5 @@
 /Users/rachelbookhout/Projects/DBConnection/DBConnection/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/rachelbookhout/Projects/DBConnection/DBConnection/bin/Debug/DBConnection.exe.mdb
+/Users/rachelbookhout/Projects/DBConnection/DBConnection/bin/Debug/DBConnection.exe
+/Users/rachelbookhout/Projects/DBConnection/DBConnection/obj/x86/Debug/DBConnection.exe
+/Users/rachelbookhout/Projects/DBConnection/DBConnection/obj/x86/Debug/DBConnection.exe.mdb

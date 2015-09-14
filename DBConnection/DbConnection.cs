@@ -11,7 +11,7 @@ namespace DBConnection
 			public TimeSpan TimeoutException { get; set;}
 			
 			//need to pass the connection string through in the constructor for this class
-		private DbConnection(string connectionString)
+		public DbConnection(string connectionString)
 		{
 			this.ConnectionString = connectionString;
 
