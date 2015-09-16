@@ -24,10 +24,6 @@ namespace DBConnection
 
 			//have two derived clsses -> SqlConnection and OracleConnection and write a simple open and close connection with a Console.WriteLine
 
-			//after all of this, create a class called DbCommand, needs a constructor with connection string in it and a string which is representing the instruction
-			//make sure the string is catering for a null reference or an empty string
-			//needs a method caleled Execute() -> which will be be Open(), run the instruction, and Close()
-			//DbCommand referencess DbConnection
 
 	}
 }
